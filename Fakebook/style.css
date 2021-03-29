@@ -1,0 +1,143 @@
+
+    html {
+        text-align: center;
+        font-family: "Axure Handwriting";
+    }
+
+    h1 {
+        color: chocolate;
+
+    }
+
+    h2 {
+        color: lightslategrey;
+
+    }
+
+    .header {
+        background: lightslategrey;
+        width: 100%;
+        height: 50px;
+    }
+
+    .container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .main {
+        background: antiquewhite;
+        height: 100%;
+        width: 50%;
+        box-sizing: border-box;
+    }
+    .left {
+        background: indianred;
+        height:vh;
+        width: 25%;
+        box-sizing: border-box;
+    }
+
+    .right {
+        background: darkred;
+        height: vh;
+        width: 25%;
+        text-align: left;
+        padding-left: 10px;
+        box-sizing: border-box;
+
+    }
+
+    .container-friends {
+        background: white;
+        display: flex;
+        flex-direction: column;
+        color: blue;
+        justify-content: space-between;
+        height: 150px;
+
+
+
+
+
+    }
+
+
+
+       .footer {
+        background: lightslategrey;
+        width: 100%;
+        height: 150px;
+    }
+
+    }
+
+
+
+    .search {
+        margin-bottom: 5px;
+        margin-top: -10px;
+        border: 2px solid lightslategrey;
+        text-align: center;
+        border-radius: 4px;
+        padding: 8px;
+        width: 30%;
+
+    }
+
+    ::placeholder {
+        color: lightslategrey;
+        font-size: 1em;
+}
+    .div {
+        margin: 20px 20px 20px;
+    }
+
+
+    .buttons {
+        background: chocolate;
+        color: white;
+        border: none;
+        width: 100px;
+        height: 30px;
+        margin: 30px 20px 20px 20px;
+        border-radius: 4px;
+    }
+
+    .buttons:hover {
+        background: lightslategrey;
+
+
+    }
+
+
+    .image {
+        border: 6px lightslategrey solid;
+        padding-bottom: 3px;
+        padding-right: 3px;
+        margin-bottom: 20px;
+          border-radius: 8px;
+
+    }
+
+    .table {
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        color: chocolate;
+    }
+
+    th {
+        background: lightslategrey;
+        border-color: lightslategrey;
+        color: white;
+        font-size: large;
+    }
+
+
+
+
+
+

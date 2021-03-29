@@ -1,0 +1,12 @@
+VPRAŠANJA:
+ - pogosto so v headerju neke informacije, npr GA koda. Vèasih se pa pošiljajo kakšne informacije, ID userja, kar ne razumem
+
+-------------------------
+.net core
+framework: bootstrap, react
+
+app development
+------------
+kako lahko prevrim, èe CSS enega modula bo delal v dreugem modulu?
+----------
+razlika med insoector code in source file kodo
